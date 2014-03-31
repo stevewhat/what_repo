@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script generates the basic foundation for a CoC 4th edition character
+# this script generates the basic foundation for a CoC 6th edition character
 
 
 # Functions
@@ -51,7 +51,3 @@ do
     r=0
 
 done
-
-
-
-
